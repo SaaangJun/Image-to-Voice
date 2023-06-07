@@ -28,6 +28,8 @@ ViT + GPT  를 이용하여 image captioning 및 image to text Model 향상 기�
 2. Final.ipynb 에서 model_dir 을 앞서 학습 시킨 후 생성된 result 파일로 경로 지정
 3. 실행
  * 학습 과정 생략 필요시 https://drive.google.com/drive/folders/14zkQWD33JpHAnc4r7MgNqF8gZQawzTb9?usp=sharing 위 링크에서 result2 파일 다운로드 후 경로 설정 수정.
+ * https://drive.google.com/file/d/1OXyWbQ_nJ_DTh3qo1KDF5GZ2Z7fqfdk4/view?usp=sharing
+ * -> 학습 과정 생략 필요시 다운로드 받는 링크를 통해 폴더 다운로드 후 경로 추가
 
 
 
