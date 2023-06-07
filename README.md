@@ -26,8 +26,8 @@ ViT + GPT  를 이용하여 image captioning 및 image to text Model 향상 기�
 
 1. image_captioning.ipynb(gentlem.ipynb) 의 한-영 모델 번역 부분을 실행 후 Fine-tuning Model 학습
 2. Final.ipynb 에서 model_dir 을 앞서 학습 시킨 후 생성된 result 파일로 경로 지정
-3. 실행.
-
+3. 실행
+ * 학습 과정 생략 필요시 https://drive.google.com/drive/folders/14zkQWD33JpHAnc4r7MgNqF8gZQawzTb9?usp=sharing 위 링크에서 result2 파일 다운로드 후 경로 설정 수정.
 
 
 
