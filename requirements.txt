@@ -1,2 +1,5 @@
 transformers
-gTTS
+gTTs
+tensorflow
+numpy
+pandas
